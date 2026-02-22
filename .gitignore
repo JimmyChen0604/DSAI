@@ -1,0 +1,6 @@
+.env
+.DS_Store
+**/__pycache__
+**/_pycache_
+docs/.prep/.canvas
+tockens.env
